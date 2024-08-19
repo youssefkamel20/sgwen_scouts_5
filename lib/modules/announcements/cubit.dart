@@ -13,7 +13,7 @@ class MoviesCubit extends Cubit<MoviesStates>{
 
   List<MovieModel> list =[
   ];
-  int pageNumber = 499;
+  int pageNumber = 1;
   void getData({bool fromLoading = false}) async {
     if(fromLoading){
       emit(MoviesFromPaginationLoadingState());

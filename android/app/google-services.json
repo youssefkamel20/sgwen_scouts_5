@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "565424510027",
+    "project_id": "scouts-5",
+    "storage_bucket": "scouts-5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565424510027:android:65806da501f0d9d61c29ce",
+        "android_client_info": {
+          "package_name": "com.example.sgwen_scouts_5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBO2D1GVou8gqTgXzY4uHtgLd5EUNLuQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
